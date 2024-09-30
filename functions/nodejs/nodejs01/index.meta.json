@@ -1,0 +1,16 @@
+{
+  "apiID": "package_53e169__c__function_aadg7irk4pway",
+  "apiName": "nodejs01",
+  "label": {
+    "zh_CN": "nodejs 01",
+    "en_US": "nodejs 01"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
